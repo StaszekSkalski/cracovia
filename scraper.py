@@ -13,11 +13,15 @@ def nowa_sesja():
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                       "(KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
         "Accept": "application/json, text/plain, */*",
+        "Accept-Language": "pl,en-US;q=0.9,en;q=0.8",
         "X-Requested-With": "XMLHttpRequest",
+        "X-Color-Id": "5554c0c5455",
+        "X-Theme-Id": "mrq3v81a",
         "Origin": BASE,
         "Referer": f"{BASE}/Stadium?eventId={EVENT}",
     })
-    s.get(f"{BASE}/Stadium?eventId={EVENT}")
+    r = s.get(f"{BASE}/Stadium?eventId={EVENT}")
+    print("strona glowna:", r.status_code, len(r.content))
     return s
 
 
