@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pl">
+<meta charset="utf-8">
+<title>Zapełnienie stadionu</title>
+<style>
+  body { font-family: system-ui, sans-serif; max-width: 700px; margin: 3rem auto;
+         padding: 0 1rem; background: #111; color: #eee; }
+  .duzy { font-size: 5rem; font-weight: 700; color: #d0021b; line-height: 1; }
+  .pasek { height: 24px; background: #333; border-radius: 12px; overflow: hidden; margin: 1.5rem 0; }
+  .pasek div { height: 100%; background: #d0021b; }
+  td { padding: .3rem .8rem .3rem 0; }
+  .szary { color: #888; font-size: .9rem; }
+</style>
+
+<h1>Cracovia — zapełnienie</h1>
+<div class="duzy" id="proc">—</div>
+<div class="pasek"><div id="fill" style="width:0"></div></div>
+<p id="liczby"></p>
+<p class="szary" id="czas"></p>
+<table id="sektory"></table>
+
+<script>
+fetch("dane.json?" + Date.now())
+  .then(r => r.json())
+  .then(d => {
+    proc.textContent = d.procent + "%";
+    fill.style.width = d.procent + "%";
+    liczby.textContent = `${d.zajete} / ${d.wszystkie} miejsc`;
+    czas.textContent = "Aktualizacja: " + d.czas;
+    sektory.innerHTML = d.sektory
+      .map(s => `<tr><td>${s.nazwa}</td><td>${s.zajete}/${s.wszystkie}</td><td>${s.procent}%</td></tr>`)
+      .join("");
+  });
+</script>
+</html>
