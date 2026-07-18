@@ -1,8 +1,8 @@
 {
-  "czas": "2026-07-18 20:04",
-  "zajete": 10163,
+  "czas": "2026-07-18 21:20",
+  "zajete": 10188,
   "wszystkie": 13437,
-  "procent": 75.6,
+  "procent": 75.8,
   "sektory": [
     {
       "nazwa": "A1",
@@ -12,9 +12,9 @@
     },
     {
       "nazwa": "A2",
-      "zajete": 438,
+      "zajete": 445,
       "wszystkie": 557,
-      "procent": 78.6
+      "procent": 79.9
     },
     {
       "nazwa": "A3",
@@ -30,27 +30,27 @@
     },
     {
       "nazwa": "B2",
-      "zajete": 350,
+      "zajete": 349,
       "wszystkie": 582,
-      "procent": 60.1
+      "procent": 60.0
     },
     {
       "nazwa": "B3",
-      "zajete": 258,
+      "zajete": 261,
       "wszystkie": 646,
-      "procent": 39.9
+      "procent": 40.4
     },
     {
       "nazwa": "B4",
-      "zajete": 43,
+      "zajete": 45,
       "wszystkie": 362,
-      "procent": 11.9
+      "procent": 12.4
     },
     {
       "nazwa": "C1",
-      "zajete": 29,
+      "zajete": 31,
       "wszystkie": 40,
-      "procent": 72.5
+      "procent": 77.5
     },
     {
       "nazwa": "C2",
@@ -90,15 +90,15 @@
     },
     {
       "nazwa": "E1",
-      "zajete": 226,
+      "zajete": 227,
       "wszystkie": 526,
-      "procent": 43.0
+      "procent": 43.2
     },
     {
       "nazwa": "E2",
-      "zajete": 309,
+      "zajete": 313,
       "wszystkie": 474,
-      "procent": 65.2
+      "procent": 66.0
     },
     {
       "nazwa": "F1",
@@ -126,21 +126,21 @@
     },
     {
       "nazwa": "G1",
-      "zajete": 342,
+      "zajete": 347,
       "wszystkie": 484,
-      "procent": 70.7
+      "procent": 71.7
     },
     {
       "nazwa": "G2",
-      "zajete": 184,
+      "zajete": 183,
       "wszystkie": 404,
-      "procent": 45.5
+      "procent": 45.3
     },
     {
       "nazwa": "H1",
-      "zajete": 135,
+      "zajete": 137,
       "wszystkie": 253,
-      "procent": 53.4
+      "procent": 54.2
     },
     {
       "nazwa": "H2",
@@ -150,9 +150,9 @@
     },
     {
       "nazwa": "H3",
-      "zajete": 13,
+      "zajete": 14,
       "wszystkie": 318,
-      "procent": 4.1
+      "procent": 4.4
     },
     {
       "nazwa": "I1",
