@@ -1,8 +1,8 @@
 {
-  "czas": "2026-07-18 23:02",
-  "zajete": 10225,
+  "czas": "2026-07-19 00:03",
+  "zajete": 10236,
   "wszystkie": 13437,
-  "procent": 76.1,
+  "procent": 76.2,
   "sektory": [
     {
       "nazwa": "A1",
@@ -18,39 +18,39 @@
     },
     {
       "nazwa": "A3",
-      "zajete": 504,
+      "zajete": 502,
       "wszystkie": 552,
-      "procent": 91.3
+      "procent": 90.9
     },
     {
       "nazwa": "B1",
-      "zajete": 435,
+      "zajete": 441,
       "wszystkie": 496,
-      "procent": 87.7
+      "procent": 88.9
     },
     {
       "nazwa": "B2",
-      "zajete": 351,
+      "zajete": 355,
       "wszystkie": 582,
-      "procent": 60.3
+      "procent": 61.0
     },
     {
       "nazwa": "B3",
-      "zajete": 269,
+      "zajete": 272,
       "wszystkie": 646,
-      "procent": 41.6
+      "procent": 42.1
     },
     {
       "nazwa": "B4",
-      "zajete": 46,
+      "zajete": 43,
       "wszystkie": 362,
-      "procent": 12.7
+      "procent": 11.9
     },
     {
       "nazwa": "C1",
-      "zajete": 31,
+      "zajete": 32,
       "wszystkie": 40,
-      "procent": 77.5
+      "procent": 80.0
     },
     {
       "nazwa": "C2",
@@ -96,9 +96,9 @@
     },
     {
       "nazwa": "E2",
-      "zajete": 319,
+      "zajete": 321,
       "wszystkie": 474,
-      "procent": 67.3
+      "procent": 67.7
     },
     {
       "nazwa": "F1",
@@ -120,21 +120,21 @@
     },
     {
       "nazwa": "F4",
-      "zajete": 104,
+      "zajete": 103,
       "wszystkie": 199,
-      "procent": 52.3
+      "procent": 51.8
     },
     {
       "nazwa": "G1",
-      "zajete": 349,
+      "zajete": 348,
       "wszystkie": 484,
-      "procent": 72.1
+      "procent": 71.9
     },
     {
       "nazwa": "G2",
-      "zajete": 185,
+      "zajete": 184,
       "wszystkie": 404,
-      "procent": 45.8
+      "procent": 45.5
     },
     {
       "nazwa": "H1",
@@ -150,9 +150,9 @@
     },
     {
       "nazwa": "H3",
-      "zajete": 13,
+      "zajete": 16,
       "wszystkie": 318,
-      "procent": 4.1
+      "procent": 5.0
     },
     {
       "nazwa": "I1",
