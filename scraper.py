@@ -25,7 +25,12 @@ def raport():
     s = nowa_sesja()
 
     def get(name):
-        return s.post(f"{BASE}/Stadium/{name}", params={"eventId": EVENT}).json()
+        r = s.post(f"{BASE}/Stadium/{name}", params={"eventId": EVENT})
+        print(f"[{name}] status={r.status_code} len={len(r.content)} ct={r.headers.get('Content-Type')}")
+        if "json" not in (r.headers.get("Content-Type") or ""):
+            print("ODPOWIEDZ NIE-JSON, poczatek:", r.text[:400])
+            r.raise_for_status()
+        return r.json()
 
     names = {sec["id"]: sec["name"] for sec in get("GetWGLSectors")["sectors"]}
     total = Counter(seat["sectorId"] for seat in get("GetWGLSeats")["seats"])
