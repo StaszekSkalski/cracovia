@@ -1,32 +1,32 @@
 {
-  "czas": "2026-07-19 15:48",
-  "zajete": 10527,
+  "czas": "2026-07-19 16:44",
+  "zajete": 10528,
   "wszystkie": 13437,
-  "procent": 78.3,
+  "procent": 78.4,
   "sektory": [
     {
       "nazwa": "A1",
-      "zajete": 442,
+      "zajete": 443,
       "wszystkie": 540,
-      "procent": 81.9
+      "procent": 82.0
     },
     {
       "nazwa": "A2",
-      "zajete": 468,
+      "zajete": 466,
       "wszystkie": 557,
-      "procent": 84.0
+      "procent": 83.7
     },
     {
       "nazwa": "A3",
-      "zajete": 525,
+      "zajete": 522,
       "wszystkie": 552,
-      "procent": 95.1
+      "procent": 94.6
     },
     {
       "nazwa": "B1",
-      "zajete": 479,
+      "zajete": 480,
       "wszystkie": 496,
-      "procent": 96.6
+      "procent": 96.8
     },
     {
       "nazwa": "B2",
@@ -36,15 +36,15 @@
     },
     {
       "nazwa": "B3",
-      "zajete": 305,
+      "zajete": 304,
       "wszystkie": 646,
-      "procent": 47.2
+      "procent": 47.1
     },
     {
       "nazwa": "B4",
-      "zajete": 56,
+      "zajete": 57,
       "wszystkie": 362,
-      "procent": 15.5
+      "procent": 15.7
     },
     {
       "nazwa": "C1",
@@ -90,15 +90,15 @@
     },
     {
       "nazwa": "E1",
-      "zajete": 233,
+      "zajete": 235,
       "wszystkie": 526,
-      "procent": 44.3
+      "procent": 44.7
     },
     {
       "nazwa": "E2",
-      "zajete": 339,
+      "zajete": 342,
       "wszystkie": 474,
-      "procent": 71.5
+      "procent": 72.2
     },
     {
       "nazwa": "F1",
@@ -108,9 +108,9 @@
     },
     {
       "nazwa": "F2",
-      "zajete": 96,
+      "zajete": 95,
       "wszystkie": 263,
-      "procent": 36.5
+      "procent": 36.1
     },
     {
       "nazwa": "F3",
@@ -126,15 +126,15 @@
     },
     {
       "nazwa": "G1",
-      "zajete": 377,
+      "zajete": 379,
       "wszystkie": 484,
-      "procent": 77.9
+      "procent": 78.3
     },
     {
       "nazwa": "G2",
-      "zajete": 192,
+      "zajete": 190,
       "wszystkie": 404,
-      "procent": 47.5
+      "procent": 47.0
     },
     {
       "nazwa": "H1",
