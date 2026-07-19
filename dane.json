@@ -1,50 +1,50 @@
 {
-  "czas": "2026-07-19 14:10",
-  "zajete": 10477,
+  "czas": "2026-07-19 15:48",
+  "zajete": 10527,
   "wszystkie": 13437,
-  "procent": 78.0,
+  "procent": 78.3,
   "sektory": [
     {
       "nazwa": "A1",
-      "zajete": 447,
+      "zajete": 442,
       "wszystkie": 540,
-      "procent": 82.8
+      "procent": 81.9
     },
     {
       "nazwa": "A2",
-      "zajete": 469,
+      "zajete": 468,
       "wszystkie": 557,
-      "procent": 84.2
+      "procent": 84.0
     },
     {
       "nazwa": "A3",
-      "zajete": 517,
+      "zajete": 525,
       "wszystkie": 552,
-      "procent": 93.7
+      "procent": 95.1
     },
     {
       "nazwa": "B1",
-      "zajete": 471,
+      "zajete": 479,
       "wszystkie": 496,
-      "procent": 95.0
+      "procent": 96.6
     },
     {
       "nazwa": "B2",
-      "zajete": 395,
+      "zajete": 422,
       "wszystkie": 582,
-      "procent": 67.9
+      "procent": 72.5
     },
     {
       "nazwa": "B3",
-      "zajete": 304,
+      "zajete": 305,
       "wszystkie": 646,
-      "procent": 47.1
+      "procent": 47.2
     },
     {
       "nazwa": "B4",
-      "zajete": 53,
+      "zajete": 56,
       "wszystkie": 362,
-      "procent": 14.6
+      "procent": 15.5
     },
     {
       "nazwa": "C1",
@@ -84,9 +84,9 @@
     },
     {
       "nazwa": "D4",
-      "zajete": 553,
+      "zajete": 552,
       "wszystkie": 553,
-      "procent": 100.0
+      "procent": 99.8
     },
     {
       "nazwa": "E1",
@@ -96,9 +96,9 @@
     },
     {
       "nazwa": "E2",
-      "zajete": 337,
+      "zajete": 339,
       "wszystkie": 474,
-      "procent": 71.1
+      "procent": 71.5
     },
     {
       "nazwa": "F1",
@@ -120,21 +120,21 @@
     },
     {
       "nazwa": "F4",
-      "zajete": 109,
+      "zajete": 115,
       "wszystkie": 199,
-      "procent": 54.8
+      "procent": 57.8
     },
     {
       "nazwa": "G1",
-      "zajete": 372,
+      "zajete": 377,
       "wszystkie": 484,
-      "procent": 76.9
+      "procent": 77.9
     },
     {
       "nazwa": "G2",
-      "zajete": 193,
+      "zajete": 192,
       "wszystkie": 404,
-      "procent": 47.8
+      "procent": 47.5
     },
     {
       "nazwa": "H1",
@@ -150,9 +150,9 @@
     },
     {
       "nazwa": "H3",
-      "zajete": 16,
+      "zajete": 14,
       "wszystkie": 318,
-      "procent": 5.0
+      "procent": 4.4
     },
     {
       "nazwa": "I1",
