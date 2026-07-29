@@ -1,38 +1,38 @@
 {
-  "czas": "2026-07-29 13:51",
-  "zajete": 8053,
+  "czas": "2026-07-29 15:30",
+  "zajete": 8010,
   "wszystkie": 13437,
-  "procent": 59.9,
+  "procent": 59.6,
   "sektory": [
     {
       "nazwa": "A1",
-      "zajete": 184,
+      "zajete": 182,
       "wszystkie": 540,
-      "procent": 34.1
+      "procent": 33.7
     },
     {
       "nazwa": "A2",
-      "zajete": 373,
+      "zajete": 365,
       "wszystkie": 557,
-      "procent": 67.0
+      "procent": 65.5
     },
     {
       "nazwa": "A3",
-      "zajete": 521,
+      "zajete": 519,
       "wszystkie": 552,
-      "procent": 94.4
+      "procent": 94.0
     },
     {
       "nazwa": "B1",
-      "zajete": 480,
+      "zajete": 473,
       "wszystkie": 496,
-      "procent": 96.8
+      "procent": 95.4
     },
     {
       "nazwa": "B2",
-      "zajete": 420,
+      "zajete": 401,
       "wszystkie": 582,
-      "procent": 72.2
+      "procent": 68.9
     },
     {
       "nazwa": "B3",
@@ -42,9 +42,9 @@
     },
     {
       "nazwa": "B4",
-      "zajete": 41,
+      "zajete": 36,
       "wszystkie": 362,
-      "procent": 11.3
+      "procent": 9.9
     },
     {
       "nazwa": "C1",
