@@ -1,8 +1,8 @@
 {
-  "czas": "2026-07-29 09:14",
-  "zajete": 8273,
+  "czas": "2026-07-29 11:48",
+  "zajete": 8053,
   "wszystkie": 13437,
-  "procent": 61.6,
+  "procent": 59.9,
   "sektory": [
     {
       "nazwa": "A1",
@@ -156,21 +156,21 @@
     },
     {
       "nazwa": "I1",
-      "zajete": 493,
+      "zajete": 379,
       "wszystkie": 508,
-      "procent": 97.0
+      "procent": 74.6
     },
     {
       "nazwa": "I2",
-      "zajete": 904,
+      "zajete": 804,
       "wszystkie": 943,
-      "procent": 95.9
+      "procent": 85.3
     },
     {
       "nazwa": "I3",
-      "zajete": 503,
+      "zajete": 497,
       "wszystkie": 505,
-      "procent": 99.6
+      "procent": 98.4
     },
     {
       "nazwa": "I4",
